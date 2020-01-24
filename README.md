@@ -11,3 +11,4 @@
 1234
 foobar
 foo
+foo
