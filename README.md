@@ -12,3 +12,4 @@
 foobar
 foo
 foo
+foo
