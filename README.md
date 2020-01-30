@@ -8,8 +8,5 @@
 
 4. Visit the [deliverybot app](https://app.deliverybot.dev) and manually deploy.
 
-1234
-foobar
-foo
-foo
-foo
+fffff
+fffff
